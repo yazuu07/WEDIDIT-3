@@ -1,0 +1,12 @@
+{
+    "repositories": [
+    {
+        "type": "path",
+        "url": "C:/xampp/htdocs/itonatocuescano/PhpSpreadsheet",
+        "canonical": false
+    }
+],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.23"
+    }
+}
